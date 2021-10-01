@@ -5,7 +5,7 @@ A deep unordered model called Deep Averaging Network(DAN) and it works as follow
   * Pass that average through one or more feedforward layers
   * Perform (linear) classification on the final layer’s representation
 
-Used above approach for text classification on [BBC Dataset](http://mlg.ucd.ie/datasets/bbc.html) and sentiment analysis on [IMDB Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). Following are the result,
+Used above approach for text classification on [BBC Dataset](http://mlg.ucd.ie/datasets/bbc.html) and sentiment analysis on [IMDB Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). 
   * Test accuracy for classification 0.97687
   * Test accuracy for sentiment analysis 0.8878
 
