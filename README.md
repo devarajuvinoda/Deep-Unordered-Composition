@@ -15,4 +15,4 @@ Reference:
 
 NOTE:
 * Random 1490 data points from BBC dataset were used for training and remaining 735 for testing.
-* The last 25000 examples from IMDB dataset are used for Testing purpose.
+* The last 25000 examples from IMDB dataset were used for Testing purpose.
