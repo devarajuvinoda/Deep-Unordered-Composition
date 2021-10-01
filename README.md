@@ -12,3 +12,7 @@ Used above approach for text classification on [BBC Dataset](http://mlg.ucd.ie/d
 Reference:
 * [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](https://people.cs.umass.edu/~miyyer/pubs/2015_acl_dan.pdf)
 * [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)
+
+NOTE:
+* Random 1490 data points from BBC dataset were used for training and remaining 735 for testing.
+* The last 25000 examples from IMDB dataset are used for Testing purpose.
