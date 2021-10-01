@@ -10,5 +10,5 @@ Used above approach for text classification on [BBC Dataset](http://mlg.ucd.ie/d
   * Test accuracy for sentiment analysis 0.8878
 
 Reference:
-[Deep Unordered Composition Rivals Syntactic Methods for Text Classification](https://people.cs.umass.edu/~miyyer/pubs/2015_acl_dan.pdf)
-[Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)
+* [Deep Unordered Composition Rivals Syntactic Methods for Text Classification](https://people.cs.umass.edu/~miyyer/pubs/2015_acl_dan.pdf)
+* [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)
